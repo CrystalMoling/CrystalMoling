@@ -14,8 +14,8 @@ Java 和 C# 初学者
 
 |项目名|介绍|语言|状态|
 |:---:|:---:|:---:|:---:|
-|[Link2telegram](https://github.com/Crystal-Moling/link2telegram)|使用Telegram管理我的世界服务器|Java|**开发中**|
-|[L2t-MCSManager](https://github.com/Crystal-Moling/L2t-MCSManager)|使用Link2telegram调用MCSManagerAPI|Java|**开发中**|
+|[Link2telegram](https://github.com/Crystal-Moling/link2telegram)|使用Telegram管理我的世界服务器|Java|**更新中**|
+|[L2t-MCSManager](https://github.com/Crystal-Moling/L2t-MCSManager)|使用Link2telegram调用MCSManagerAPI|Java|**更新中**|
 |[ARKCore-Project](https://github.com/Crystal-Moling/ARKCore-Project)|我的世界启动库|C#|**开发中**|
 |[CrystalClash](https://github.com/Crystal-Moling/CrystalClash)|Clash图形化界面|C#|**开发中**|
 |CrystalADBToolkit|图形化ADB工具箱|C#|**开发中，未公开**|
@@ -27,7 +27,7 @@ Java 和 C# 初学者
 
 |项目名|介绍|语言|状态|
 |:---:|:---:|:---:|:---:|
-|MicaCraftLauncher|我的世界启动器|C#|**开发中，不公开**|
+|MicaCraftLauncher|我的世界启动器|C#|**开发中**|
 
 计划中项目
 
