@@ -28,9 +28,3 @@ Java 和 C# 初学者
 |:---:|:---:|:---:|:---:|
 |MicaCraftLauncher|我的世界启动器|C#|**暂缓**|
 |CrystalADBToolkit|图形化ADB工具箱|C#|**开发中**|
-
-计划中项目
-
-|项目名|介绍|语言|状态|
-|:---:|:---:|:---:|:---:|
-|TelegramCloudStroage|基于TelegramBot的云存储|Java|**计划中**|
