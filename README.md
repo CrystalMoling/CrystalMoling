@@ -3,9 +3,9 @@
 ## Contact
 <img align=right src="https://github-readme-stats.vercel.app/api?username=CrystalMoling&show_icons=true&count_private=true"/>
 
-> ![Keybase PGP](https://img.shields.io/keybase/pgp/CrystalMoling?style=for-the-badge)\
-> ![V2EX](https://img.shields.io/static/v1?style=for-the-badge&message=@CrystalMoling&color=eeeeee&logo=v2ex&logoColor=000000&label=V2EX)
+> ![Keybase PGP](https://img.shields.io/keybase/pgp/CrystalMoling?style=for-the-badge)
 
+> ![V2EX](https://img.shields.io/static/v1?style=for-the-badge&message=@CrystalMoling&color=eeeeee&logo=v2ex&logoColor=000000&label=V2EX)\
 > ![Twitter Follow](https://img.shields.io/static/v1?style=for-the-badge&message=@Crystal_Moling&color=eeeeee&logo=twitter&logoColor=22A6F1&label=Twitter)\
 > ![Telegram](https://img.shields.io/static/v1?style=for-the-badge&message=@Crystal_Moling&color=eeeeee&logo=telegram&logoColor=22A6F1&label=Telegram)
 
